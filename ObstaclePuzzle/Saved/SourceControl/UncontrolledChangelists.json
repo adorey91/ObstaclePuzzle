@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UnrealProjects/ObstaclePuzzle/Content/Main.umap",
+				"E:/UnrealProjects/ObstaclePuzzle/Content/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter.uasset"
+			]
+		}
+	]
+}

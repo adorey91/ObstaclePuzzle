@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unrealprojects\\obstaclepuzzle\\intermediate\\build\\win64\\unrealeditor\\inc\\obstaclepuzzle\\uht\\movingplatfrom.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unrealprojects\\obstaclepuzzle\\intermediate\\build\\win64\\x64\\obstaclepuzzleeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "e:\\unrealprojects\\obstaclepuzzle\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\obstaclepuzzle\\definitions.obstaclepuzzle.h",
+            "e:\\unrealprojects\\obstaclepuzzle\\source\\obstaclepuzzle\\movingplatfrom.h",
+            "e:\\unrealprojects\\obstaclepuzzle\\intermediate\\build\\win64\\unrealeditor\\inc\\obstaclepuzzle\\uht\\movingplatfrom.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
