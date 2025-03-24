@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\githubrepos\\obstaclepuzzle\\obstaclepuzzle\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\obstaclepuzzle\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\githubrepos\\obstaclepuzzle\\obstaclepuzzle\\intermediate\\build\\win64\\x64\\obstaclepuzzleeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "e:\\githubrepos\\obstaclepuzzle\\obstaclepuzzle\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\obstaclepuzzle\\definitions.obstaclepuzzle.h",
+            "e:\\epicgames\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

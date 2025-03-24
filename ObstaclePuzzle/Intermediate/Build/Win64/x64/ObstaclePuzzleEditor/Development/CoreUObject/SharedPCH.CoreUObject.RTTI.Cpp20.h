@@ -1,3 +1,3 @@
 // PCH for Runtime/CoreUObject/Public/CoreUObjectSharedPCH.h
-#include "E:/UnrealProjects/ObstaclePuzzle/Intermediate/Build/Win64/x64/ObstaclePuzzleEditor/Development/CoreUObject/SharedDefinitions.CoreUObject.RTTI.Cpp20.h"
+#include "E:/GithubRepos/ObstaclePuzzle/ObstaclePuzzle/Intermediate/Build/Win64/x64/ObstaclePuzzleEditor/Development/CoreUObject/SharedDefinitions.CoreUObject.RTTI.Cpp20.h"
 #include "Runtime/CoreUObject/Public/CoreUObjectSharedPCH.h"

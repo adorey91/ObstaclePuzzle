@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"E:\\UnrealProjects\\ObstaclePuzzle\\Source\\ObstaclePuzzle\\ObstaclePuzzle.Build.cs",
-		"E:\\UnrealProjects\\ObstaclePuzzle\\Source\\ObstaclePuzzle.Target.cs",
-		"E:\\UnrealProjects\\ObstaclePuzzle\\Source\\ObstaclePuzzleEditor.Target.cs"
+		"E:\\GithubRepos\\ObstaclePuzzle\\ObstaclePuzzle\\Source\\ObstaclePuzzle\\ObstaclePuzzle.Build.cs",
+		"E:\\GithubRepos\\ObstaclePuzzle\\ObstaclePuzzle\\Source\\ObstaclePuzzle.Target.cs",
+		"E:\\GithubRepos\\ObstaclePuzzle\\ObstaclePuzzle\\Source\\ObstaclePuzzleEditor.Target.cs"
 	],
 	"EngineVersion": "5.5.4"
 }

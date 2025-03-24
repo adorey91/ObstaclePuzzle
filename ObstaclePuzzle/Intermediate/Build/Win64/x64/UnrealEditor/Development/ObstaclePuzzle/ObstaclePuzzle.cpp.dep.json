@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "e:\\unrealprojects\\obstaclepuzzle\\source\\obstaclepuzzle\\obstaclepuzzle.cpp",
+        "Source": "e:\\githubrepos\\obstaclepuzzle\\obstaclepuzzle\\source\\obstaclepuzzle\\obstaclepuzzle.cpp",
         "ProvidedModule": "",
-        "PCH": "e:\\unrealprojects\\obstaclepuzzle\\intermediate\\build\\win64\\x64\\obstaclepuzzleeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "PCH": "e:\\githubrepos\\obstaclepuzzle\\obstaclepuzzle\\intermediate\\build\\win64\\x64\\obstaclepuzzleeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
         "Includes": [
-            "e:\\unrealprojects\\obstaclepuzzle\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\obstaclepuzzle\\definitions.obstaclepuzzle.h",
-            "e:\\unrealprojects\\obstaclepuzzle\\source\\obstaclepuzzle\\obstaclepuzzle.h"
+            "e:\\githubrepos\\obstaclepuzzle\\obstaclepuzzle\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\obstaclepuzzle\\definitions.obstaclepuzzle.h",
+            "e:\\githubrepos\\obstaclepuzzle\\obstaclepuzzle\\source\\obstaclepuzzle\\obstaclepuzzle.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

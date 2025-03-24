@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/GithubRepos/ObstaclePuzzle/ObstaclePuzzle/Content/Main.umap",
+				"E:/GithubRepos/ObstaclePuzzle/ObstaclePuzzle/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"E:/GithubRepos/ObstaclePuzzle/ObstaclePuzzle/Content/BP_ObstaclePuzzleGameMode.uasset",
+				"E:/GithubRepos/ObstaclePuzzle/ObstaclePuzzle/Content/BP_MovingPlatform.uasset",
+				"E:/GithubRepos/ObstaclePuzzle/ObstaclePuzzle/Content/BP_MovingCube.uasset",
+				"E:/GithubRepos/ObstaclePuzzle/ObstaclePuzzle/Content/BP_RotatingPlatform.uasset",
+				"E:/GithubRepos/ObstaclePuzzle/ObstaclePuzzle/Content/Hour_of_Code/Static_Meshes/SM_Platform_M_coll.uasset",
+				"E:/GithubRepos/ObstaclePuzzle/ObstaclePuzzle/Content/BP_MovingPlatfrom.uasset",
+				"E:/GithubRepos/ObstaclePuzzle/ObstaclePuzzle/Content/BP_PushingCube.uasset",
+				"E:/GithubRepos/ObstaclePuzzle/ObstaclePuzzle/Content/MovingCube.uasset",
 				"E:/UnrealProjects/ObstaclePuzzle/Content/Main.umap",
 				"E:/UnrealProjects/ObstaclePuzzle/Content/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter.uasset"
 			]

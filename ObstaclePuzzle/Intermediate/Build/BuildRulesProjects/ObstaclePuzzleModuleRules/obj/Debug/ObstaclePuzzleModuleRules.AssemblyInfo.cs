@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ObstaclePuzzleModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dbc604a9e46f9251f22cabd9dfa6c4754a582f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ObstaclePuzzleModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ObstaclePuzzleModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

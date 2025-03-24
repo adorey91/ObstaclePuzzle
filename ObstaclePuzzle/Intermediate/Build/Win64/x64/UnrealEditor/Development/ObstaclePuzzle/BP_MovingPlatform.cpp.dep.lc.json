@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\githubrepos\\obstaclepuzzle\\obstaclepuzzle\\source\\obstaclepuzzle\\bp_movingplatform.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\githubrepos\\obstaclepuzzle\\obstaclepuzzle\\intermediate\\build\\win64\\x64\\obstaclepuzzleeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "e:\\githubrepos\\obstaclepuzzle\\obstaclepuzzle\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\obstaclepuzzle\\definitions.obstaclepuzzle.h",
+            "e:\\githubrepos\\obstaclepuzzle\\obstaclepuzzle\\source\\obstaclepuzzle\\bp_movingplatform.h",
+            "e:\\githubrepos\\obstaclepuzzle\\obstaclepuzzle\\source\\obstaclepuzzle\\movingplatform.h",
+            "e:\\githubrepos\\obstaclepuzzle\\obstaclepuzzle\\intermediate\\build\\win64\\unrealeditor\\inc\\obstaclepuzzle\\uht\\movingplatform.generated.h",
+            "e:\\githubrepos\\obstaclepuzzle\\obstaclepuzzle\\intermediate\\build\\win64\\unrealeditor\\inc\\obstaclepuzzle\\uht\\bp_movingplatform.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
